@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
+
+![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dexter-119874&show_icons=true&theme=gotham)
+
 <!--
 **dexter-11/dexter-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ---
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 ---
 <p align="center">
 <a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
@@ -25,5 +30,6 @@ Here are some ideas to get you started:
 <a href="https://ctftime.org/user/69613"><img src="https://github.com/karma9874/karma9874/blob/master/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
 <a href="https://karma9874.github.io"><img src="https://github.com/karma9874/karma9874/blob/master/assets/home.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 </p>
+
 
 -->
