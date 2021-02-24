@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
-![Dexter's github stats](https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=gotham)
+<img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=gotham">
 
 <!--
 **dexter-11/dexter-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
