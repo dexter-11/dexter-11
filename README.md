@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
+---
+![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
+---
 <p align="center">
 <a href="mailto:nirajssingh18@gmail.com@gmail.com"><img src="https://github.com/karma9874/karma9874/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/karma9874"><img src="https://github.com/karma9874/karma9874/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
