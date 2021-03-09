@@ -1,6 +1,8 @@
 ### Hi there 👋
 Intro still under construction! :eyes:
+
 <script src="https://www.hackthebox.eu/badge/229097"></script>
+
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 <img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=gotham">
 
