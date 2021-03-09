@@ -1,8 +1,8 @@
 ### Hi there 👋
 Intro still under construction! :eyes:
 
-[ ![Dexter000](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
-
+[ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
+[ ![Dexter9-THM](https://tryhackme-badges.s3.amazonaws.com/Dexter9.png)](https://tryhackme.com/p/Dexter9)
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 <img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=gotham">
 
