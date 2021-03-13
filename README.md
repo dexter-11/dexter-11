@@ -1,6 +1,6 @@
 
 <p align="center">
-  Lmao! This is what the world imagines
+  Nope! Definitely not me 
   <br>
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
 </p>
@@ -32,8 +32,8 @@
 
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=gotham">
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=chartreuse-dark&custom_title=Top%20Languages">
+<img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=chartreuse-dark">
 
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/dynamic-realtime/cerberodev.md
@@ -48,12 +48,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
----
-![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
-<a href="https://ctftime.org/user/88888"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
-<a href="https://karma9874.github.io"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/home.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 -->
 
 
