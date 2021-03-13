@@ -16,12 +16,12 @@ Intro still under construction! :eyes:
   </a>
   <a href="https://discord.com/users/Dexter#8860" target="_blank">
     <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/discord.svg" alt="dexter" width="48px" height="48px" />
+  </a>  
+    <a href="https://tryhackme.com/p/Dexter9" target="_blank">
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/56fd5d06741cdaeb837741bda72deef9.png" alt="dexter" width="48px" height="48px" />
   </a>
     <a href="https://www.hackthebox.eu/home/users/profile/229097" target="_blank">
-    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/Cube-Icon_RGB_BRC-Site-300.png" alt="dexter" width="48px" height="48px" />
-  </a>
-    <a href="https://tryhackme.com/p/Dexter9" target="_blank">
-    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/56fd5d06741cdaeb837741bda72deef9.png" alt="dexter" width="74px" height="48px" />
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/Cube-Icon_RGB_BRC-Site-300.png" alt="dexter" width="82px" height="64px" />
   </a>
 </p>
 
