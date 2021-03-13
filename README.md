@@ -1,6 +1,7 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
+<p>
+  <h5 align="center">Lmao! This is what the world imagines</h5>
+  <img align="center" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
 </p>
 
 <h1 align="center">Hello there👋, I'm Saket</h1>
