@@ -17,6 +17,12 @@ Intro still under construction! :eyes:
   <a href="https://discord.com/users/Dexter#8860" target="_blank">
     <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/discord.svg" alt="dexter" width="48px" height="48px" />
   </a>
+    <a href="https://www.hackthebox.eu/home/users/profile/229097" target="_blank">
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/Cube-Icon_RGB_BRC-Site-300.png" alt="dexter" width="48px" height="48px" />
+  </a>
+    <a href="https://tryhackme.com/p/Dexter9" target="_blank">
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/56fd5d06741cdaeb837741bda72deef9.png" alt="dexter" width="74px" height="48px" />
+  </a>
 </p>
 
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
@@ -47,19 +53,9 @@ Here are some ideas to get you started:
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
 
-<a href="https://ctftime.org/user/69613"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
+<a href="https://ctftime.org/user/88888"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/ctftime.ico" width="30px" alt="ctftime"></a> &nbsp; &nbsp;
 <a href="https://karma9874.github.io"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/home.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
 -->
-
-<p align="center">
-<a href="mailto:saket.sp07@gmail.com"><img src="https://github.com/dexter-11/dexter-11/blob/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://twitter.com/saket_ZGV4dGVy"><img src="https://github.com/dexter-11/dexter-11/blob/main/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/pandey-saket"><img src="https://github.com/dexter-11/dexter-11/blob/main/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/dexter-11"><img src="https://github.com/dexter-11/dexter-11/blob/main/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://discord.com/users/Dexter#8860"><img src="https://github.com/dexter-11/dexter-11/blob/main/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-
-
-</p>
 
 
 
