@@ -1,5 +1,23 @@
-### Hi there 👋
 Intro still under construction! :eyes:
+
+<h1 align="center">Hello there👋, I'm Saket</h1>
+<h3 align="center">I work to break stuff (:</h3>
+<h6 align="right">Bring me some Coffee before leaving.. Adios!</h6>
+
+<p align="center">
+   <a href="mailto:saket.sp07@gmail.com" target="_blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/gmail.svg" alt="dexter" width="48px" height="48px" />
+  </a>
+  <a href="https://twitter.com/saket_ZGV4dGVy" target="_blank">
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/twitter.svg" alt="dexter" width="48px" height="48px" />
+  </a>
+  <a href="https://www.linkedin.com/in/pandey-saket" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" alt="dexter" width="48px" height="48px" />
+  </a>
+  <a href="https://discord.com/users/Dexter#8860" target="_blank">
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/discord.svg" alt="dexter" width="48px" height="48px" />
+  </a>
+</p>
 
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
 []
