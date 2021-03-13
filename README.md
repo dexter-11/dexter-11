@@ -6,13 +6,13 @@ Intro still under construction! :eyes:
 
 <p align="center">
    <a href="mailto:saket.sp07@gmail.com" target="_blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/gmail.svg" alt="dexter" width="48px" height="48px" />
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/1024px-Gmail_icon_(2020).svg.png" alt="dexter" width="48px" height="38px" />
   </a>
   <a href="https://twitter.com/saket_ZGV4dGVy" target="_blank">
     <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/twitter.svg" alt="dexter" width="48px" height="48px" />
   </a>
   <a href="https://www.linkedin.com/in/pandey-saket" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" alt="dexter" width="48px" height="48px" />
+    <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/174857.png" alt="dexter" width="48px" height="48px" />
   </a>
   <a href="https://discord.com/users/Dexter#8860" target="_blank">
     <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/discord.svg" alt="dexter" width="48px" height="48px" />
