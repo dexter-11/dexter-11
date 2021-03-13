@@ -30,14 +30,15 @@
   </a>
 </p>
 
-<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="140vw" />
+
 
 A pre-final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red/blue teaming. Want to make a career in Cybersecurity.
 
 - ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
-<br>
+
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
 
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="140vw" />
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=chartreuse-dark">
 
