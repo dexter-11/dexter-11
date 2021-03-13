@@ -30,14 +30,20 @@
   </a>
 </p>
 
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="140vw" />
+
+A pre-final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red/blue teaming. Want to make a career in Cybersecurity.
+
+- ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
+<br>
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=chartreuse-dark&custom_title=Top%20Languages">
+
 <img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=chartreuse-dark">
 
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/dynamic-realtime/cerberodev.md
-
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexter-11&layout=compact&theme=chartreuse-dark&custom_title=Top%20Languages">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
