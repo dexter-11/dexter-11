@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ---
 ![karma's github stats](https://github-readme-stats.vercel.app/api?username=karma9874&show_icons=true&theme=gotham)
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonichigo&layout=compact&theme=tokyonight&custom_title=Top%20Languages">
----
+-->
+
 <p align="center">
 <a href="mailto:saket.sp07@gmail.com"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
 <a href="https://twitter.com/saket_ZGV4dGVy"><img src="https://github.com/dexter-11/dexter-11/tree/main/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
 </p>
 
 
--->
+
