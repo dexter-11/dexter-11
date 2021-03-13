@@ -40,7 +40,7 @@ A pre-final year student at KIIT University Bhubaneswar with a strong interest a
 
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="140vw" />
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=chartreuse-dark">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=dexter-11&show_icons=true&theme=chartreuse-dark">
 
 <!--
 https://github.com/kautukkundan/Awesome-Profile-README-templates/edit/master/dynamic-realtime/cerberodev.md
