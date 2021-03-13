@@ -36,7 +36,7 @@ A pre-final year student at KIIT University Bhubaneswar with a strong interest a
 
 - ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
 
-<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="180vw" />
+<img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="200vw" />
 
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
 
