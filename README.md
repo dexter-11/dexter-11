@@ -32,9 +32,10 @@
 
 
 
-A final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red/blue teaming. Want to make a career in Cybersecurity.
+A final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red/blue teaming
 
 - ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
+______
 PyPASS Password Manager
 
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="200vw" />
