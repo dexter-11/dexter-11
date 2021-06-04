@@ -33,11 +33,13 @@
 
 
 A final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red teaming
-
-- ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
 ______
-PyPASS Password Manager
-
+⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
+- PyPASS Password Manager
+- TheL4boratory
+- Stone_Paper_Scissors_Lizard_Spok Game
+- Penetration Testing Automation Scripts
+______
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="200vw" />
 
 [ ![Dexter000-HTB](https://www.hackthebox.eu/badge/image/229097)](https://www.hackthebox.eu/home/users/profile/229097)
