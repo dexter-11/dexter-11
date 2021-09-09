@@ -32,7 +32,7 @@
 
 
 
-A final year student at KIIT University Bhubaneswar with a strong interest and understanding of ethical hacking, penetration testing, vulnerability analysis, and red teaming
+A final year student at KIIT University Bhubaneswar with interests I'm still figuring out how to master!
 ______
 ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
 - PyPASS Password Manager
