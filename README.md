@@ -9,9 +9,9 @@
 <h3 align="center">I work to break stuff (:</h3>
 <h6 align="right">Bring me some Coffee before leaving.. Adios!</h6>
 <a href="https://www.buymeacoffee.com/dxter" target="_blank" style='margin-right:4px'>
-    <img align="right" src="https://github.com/dexter-11/dexter-11/blob/main/assets/0x0.png" alt="coffee" width="48px" height="38px" />
+    <img align="right" src="https://github.com/dexter-11/dexter-11/blob/main/assets/0x0.png" alt="coffee" width="38px" height="38px" />
 </a>
-
+<br>
 <p align="center">
    <a href="mailto:saket.sp07@gmail.com" target="_blank" style='margin-right:4px'>
     <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/1024px-Gmail_icon_(2020).svg.png" alt="dexter" width="48px" height="38px" />
