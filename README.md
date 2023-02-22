@@ -35,12 +35,12 @@
 
 
 
-A final year student at KIIT University Bhubaneswar with interests I'm still figuring out how to master!
+I like "breaking" computer things! Experienced in Web Application Pentesting, Active Directory and System exploitation. Having interests I'm still figuring out how to master. Unfortunately writing code too at times :)
 ______
 ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
+- DEXScan
 - PyPASS Password Manager
 - TheL4boratory
-- Stone_Paper_Scissors_Lizard_Spok Game
 - Penetration Testing Automation Scripts
 ______
 <img style="margin-right:20px" align="right" alt="GIF" src="https://github.com/dexter-11/dexter-11/blob/main/assets/giphy.gif" width="200vw" />
