@@ -35,7 +35,7 @@
 
 
 
-I like "breaking" computer things! Experienced in Web Application Pentesting, Active Directory and System exploitation. Having interests I'm still figuring out how to master. Unfortunately writing code too at times :)
+Experienced in Web Application Pentesting, Active Directory and System exploitation. Having interests I'm still figuring out how to master. Unfortunately writing code too at times :)
 ______
 ⚡ Projects <img align="center" src="https://github.com/dexter-11/dexter-11/blob/main/assets/loading.gif" width="35px">
 - DEXScan
